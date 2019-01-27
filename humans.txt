@@ -4,7 +4,9 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+vinayak seth
+vseth572@gmil.com
+software developer
 # THANKS
 
     <name>
