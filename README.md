@@ -1,6 +1,8 @@
 ## GIT COMPARISON
 
 
+a lot of lectures remain
+
 
 my contribution to this file
 
