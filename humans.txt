@@ -15,3 +15,5 @@ software developer
 
     HTML5, CSS3
     jQuery, Modernizr
+    chaing this is the master branch,
+    machine learning, google cloud
