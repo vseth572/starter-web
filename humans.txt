@@ -15,6 +15,7 @@ software developer
     <name>
 
 # TECHNOLOGY COLOPHON
+added in the master branch
 
 
 
@@ -23,4 +24,4 @@ deveops engineer level 3
     jQuery, Modernizr
     chaing this is the master branch,
     machine learning, google cloud
-    docker, Java Prohramming
+    docker, Java Prohrammingi
